@@ -1,20 +1,9 @@
-### Hi there 👋
+# 😎 LEE Damin's Github
+* 🎂 2002.08.30~
+* 💻 Konkuk Univ. Computer Science & Engineering: 2021.03~
+
+# 📖 Study
 
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden-swda&show_icons=true&theme=radical)
-![ldm0830's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ldm0830)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-swda&layout=compact)](https://github.com/Aiden-swda/github-readme-stats)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ldm0830)](https://solved.ac/profile/ldm0830)
-<!--
-**Aiden-swda/Aiden-swda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ldm0830's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ldm0830)
