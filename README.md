@@ -1,10 +1,10 @@
 # 😎 LEE Damin's Github
 * 🎂 2002.08.30~
 * 💻 Konkuk Univ. Computer Science & Engineering: 2021.03~
-# 
-# 
-# 
-# 
+####
+####
+####
+####
 # 📖 Study
 
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden-swda&show_icons=true&theme=radical)
