@@ -1,6 +1,7 @@
 # 😎 LEE Damin's Github
 * 🎂 2002.08.30~
 * 💻 Konkuk Univ. Computer Science & Engineering: 2021.03~
+* Republic of Korea Army: 2022.04~
 #
 # 📖 Study
 <div align="center">
