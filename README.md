@@ -1,4 +1,4 @@
-# 😎 LEE Damin's Github
+# LEE Damin's Github
 * 🎂 2002.08.30~
 * 💻 Konkuk Univ. Computer Science & Engineering: 2021.03~
 #
