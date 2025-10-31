@@ -42,8 +42,8 @@
 
 
 ## ✍️ Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devdavidlee&slug=2024-관광데이터-활용-공모전-우수상-후기)](https://github.com/devdavidlee/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devdavidlee)](https://github.com/devdavidlee/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devdavidlee&slug=2024-관광데이터-활용-공모전-우수상-후기)](https://velog.io/@devdavidlee/2024-%EA%B4%80%EA%B4%91%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%9C%EC%9A%A9-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devdavidlee)](https://velog.io/@devdavidlee/Data-Summary-and-Visualization)
 
 
 </div>
