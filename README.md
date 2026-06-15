@@ -1,11 +1,11 @@
 # 👋 Introduce
 
 ## 🚀 About Me
-<!-- 2-3줄로 자신을 소개하세요. 현재 포지션, 관심 분야, 추구하는 가치 등을 간단히 작성 -->
-- 실패에서 배우고, 해결의 과정을 즐기는 엔지니어 이다민입니다!
-- 현재 GDGoc Konkuk에서 Core-Member를 하고 있습니다.
-- 최근에는 데이터 엔지니어링을 공부하고 있습니다.
-- 백엔드와 ML/DL에 관심이 있습니다.
+- 고등학생 때 만든 성적 관리 앱 [하이스코어(HighScore)](https://play.google.com/store/apps/details?id=com.k1a2.schoolcalculator&hl=ko)를 6년째 운영하고 있습니다.
+- 백엔드 개발을 기반으로 데이터 엔지니어링과 AI/LLM 활용까지 관심을 넓혀가고 있습니다.
+- 추측보다 지표를 먼저 보고, 데이터로 의사결정하는 방식을 선호합니다.
+- 현재 디프만 18기 팀장, GDGoc Konkuk 운영진으로 활동 중입니다.
+- 기능을 만드는 것만큼 서비스가 안정적으로 동작하게 유지하는 일을 중요하게 생각합니다.
 
 ## 🧩 Experience
 
@@ -22,17 +22,28 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
 ### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ 
 ### Database & Cache
 ![Mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+ 
+### AI / ML
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA_Fine--tuning-FF9900?style=for-the-badge&logoColor=white)
+ 
+### Deploy / Infra
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
