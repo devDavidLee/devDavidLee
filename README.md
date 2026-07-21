@@ -35,6 +35,7 @@
  
 ### AI / ML
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logoColor=white)
 ![LoRA](https://img.shields.io/badge/LoRA_Fine--tuning-FF9900?style=for-the-badge&logoColor=white)
