@@ -4,7 +4,7 @@
 - 고등학생 때 만든 성적 관리 앱 [하이스코어(HighScore)](https://play.google.com/store/apps/details?id=com.k1a2.schoolcalculator&hl=ko)를 6년째 운영하고 있습니다.
 - 백엔드 개발을 기반으로 데이터 엔지니어링과 AI/LLM 활용까지 관심을 넓혀가고 있습니다.
 - 추측보다 지표를 먼저 보고, 데이터로 의사결정하는 방식을 선호합니다.
-- 현재 디프만 18기 팀장, GDGoc Konkuk 운영진으로 활동 중입니다.
+- 보이스피싱 탐지 모델 구축 졸업 프로젝트를 바탕으로 HCLT 학술대회 논문을 작성 중입니다.
 - 기능을 만드는 것만큼 서비스가 안정적으로 동작하게 유지하는 일을 중요하게 생각합니다.
 
 ## 🧩 Experience
@@ -12,8 +12,8 @@
 | 기간 | 내용 | 기관 |
 |:------------------|:--------------------------------------------|:---------------------------------------------|
 | 2021.03 ~ | Computer Science & engineering | 건국대학교 |
-| 2026.03 ~ | Server Member | 디프만 - Depromeet 18기 |
-| 2025.07 ~ | Core Member | Google Developer Group on Campus (Konkuk) |
+| 2026.03 ~ 2026.07| Server Member | 디프만 - Depromeet 18기 |
+| 2025.07 ~ 2026.06| Core Member | Google Developer Group on Campus (Konkuk) |
 | 2024.05 ~ 2024.11.05 | 2024 관광데이터 활용 공모전 우수상 | 한국관광공사 & 카카오 |
 | 2023.10.27 ~ 2023.11.24 | Project-X 수료 | 이노베이션 아카데미 |
 | 2022.04.25 ~ 2023.10.24 | 정보통신병 | 대한민국 육군 |
